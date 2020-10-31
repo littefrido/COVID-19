@@ -5,6 +5,24 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>30/10/2020</b><br>
+La Regione Calabria comunica che i casi totali a ieri erano 4.624 (e non 4.625). La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 4 casi in quanto giudicati non casi COVID-19.
+
+<b>29/10/2020</b><br>
+La Regione Abruzzo comunica che dal totale dei positivi è stato eliminato un caso di ieri in quanto duplicato. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. Si corregge pertanto il dato dei casi totali positivi comunicato ieri: n°corretto 50.493.
+
+<b>28/10/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. Si corregge pertanto il numero totale dei positivi comunicato ieri: n° corretto 49.282.
+
+<b>27/10/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 5 casi in quanto giudicati non casi COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n° corretto 47.872
+
+<b>26/10/2020</b><br>
+La Regione Abruzzo comunica che dal totale sono stati sottratti 2 casi dei giorni passati in quanto pazienti già in carico in altre Regioni e/o casi duplicati. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. Si corregge pertanto il numero totale dei casi comunicato ieri: N° corretto 46.731.
+
+<b>25/10/2020</b><br>
+La Calabria comunica che dei 179 nuovi casi positivi di oggi, 3 sono identificati in soggetti migranti.
+
 <b>24/10/2020</b><br>
 La Regione Basilicata comunica il seguente ricalcolo: è stato eliminato 1 caso erroneamente comunicato in data 23 ottobre. La Regione Emilia Romagna comunica il seguente ricalcolo: In seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi (da Ausl Bologna) in quanto giudicati non casi COVID-19.
 
